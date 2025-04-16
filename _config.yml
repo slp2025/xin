@@ -5,9 +5,9 @@ baseurl:
 url: https://slp2025.github.io/xin/
 date_format: "ordinal"
 title: 信のblog
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "一个通信行业的学徒"
+description: "日可少学，不可不学"
+keywords: 通信
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
@@ -61,8 +61,8 @@ author: xin
 organization: 
 organization_url: 
 github_username: slp2025
-location: Wuhan, China
-email: chumpma@gmail.com
+location: Nanjing, China
+email: slp2071700275abc@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -163,10 +163,10 @@ comments_provider: giscus
 
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: slp2025/xin
+    repo-id: R_kgDOOaZrhg
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDOOaZrhs4CpJN2
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
